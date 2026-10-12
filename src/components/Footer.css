@@ -149,6 +149,15 @@
   color: #8A9A8A;
 }
 
+.designer-credit {
+  color: #00FF66; /* Bold Lighting Green */
+  font-weight: 700;
+  letter-spacing: 0.02em;
+  text-shadow: 0 0 10px rgba(0, 255, 102, 0.45);
+  display: inline-block;
+  margin-left: 4px;
+}
+
 .payment-trust-tags {
   display: flex;
   gap: 8px;

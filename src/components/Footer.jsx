@@ -94,7 +94,8 @@ export default function Footer() {
         {/* Footer Bottom Bar */}
         <div className="footer-bottom-bar">
           <p className="copyright-text">
-            © 2025 VERDANT Inc. All rights reserved. Designed by Muhammad Awais Ghani.
+            © 2025 VERDANT Inc. All rights reserved.{' '}
+            <span className="designer-credit">Designed by Muhammad Awais Ghani.</span>
           </p>
 
 
